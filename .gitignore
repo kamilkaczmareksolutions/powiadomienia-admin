@@ -1,0 +1,5 @@
+.env
+oauth2service.json
+__pycache__/
+*.pyc
+temp/
